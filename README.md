@@ -4,6 +4,7 @@
 팀 8명 (BE 4 / FE 2 / Infra 1 / AI 1) · **Back-End Lead**
 
 KBO 팬을 대상으로 직관 모임(직관팟) 모집, 실시간 채팅, 커뮤니티, 직관일지, AI 경기 시뮬레이션을 제공하는 MSA 기반 플랫폼입니다.
+
 [조직 레포 전체 보기](https://github.com/orgs/KEA-ChunSam/repositories)
 
 <p>
