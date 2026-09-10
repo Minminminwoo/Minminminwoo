@@ -57,7 +57,8 @@ KBO 팬을 대상으로 직관 모임(직관팟) 모집, 실시간 채팅, 커�
 
 **dktechin-pbl** · 2025.07 ~ 2025.08 · 팀 11명 (PM 1 / FE 2 / BE 6 / AI 2) · **Back-End**
 
-> 기업 협업 프로젝트로, **소스코드와 상세 설계는 비밀유지 조항에 따라 비공개**입니다.
+> 기업 협업 프로젝트로, **기업 협업 프로젝트로, 소스코드와 산출물 원본, 실제 사내 데이터는
+비밀유지 조항에 따라 비공개**입니다.
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
